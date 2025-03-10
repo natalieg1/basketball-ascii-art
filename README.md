@@ -19,7 +19,7 @@ To build and run this project, you'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basketball-ascii-art.git
+   git clone https://github.com/natalieg1/basketball-ascii-art.git
    cd basketball-ascii-art
    ```
 

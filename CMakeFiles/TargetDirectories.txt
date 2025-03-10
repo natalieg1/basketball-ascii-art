@@ -1,0 +1,3 @@
+/Users/nataliegreenfield/basketball-ascii-art/CMakeFiles/basketball_ascii_art.dir
+/Users/nataliegreenfield/basketball-ascii-art/CMakeFiles/edit_cache.dir
+/Users/nataliegreenfield/basketball-ascii-art/CMakeFiles/rebuild_cache.dir
